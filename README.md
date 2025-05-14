@@ -1,5 +1,8 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## AIM
+The implementation of sliding window protocol
+# Name: Vikaash P
+# Reg.No: 212223240180
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
